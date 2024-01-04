@@ -1,0 +1,8 @@
+# you can leave username and password empty
+# you can create a token in your profile settings in Tableau
+TABLEAU_USERNAME=
+TABLEAU_PASSWORD=
+TABLEAU_SITENAME=factorypal
+TABLEAU_SERVER_URL=dub01.online.tableau.com
+TABLEAU_TOKEN_NAME=
+TABLEAU_TOKEN_VALUE=
